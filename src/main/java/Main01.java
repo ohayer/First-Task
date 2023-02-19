@@ -27,7 +27,7 @@ public class Main01 {
                 main(new String[0]);
                 break;
             case "exit":
-                System.out.println("Bye, bye...");
+                System.out.println("Bye, bye.");
 
                 break;
 
