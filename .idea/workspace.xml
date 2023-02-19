@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdc27bd1-6d6c-4291-8405-d717957bfaa3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
+    <list default="true" id="fdc27bd1-6d6c-4291-8405-d717957bfaa3" name="Changes" comment="List working">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -81,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main02" />
+      <module name="TaskManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main02" />
       <module name="TaskManager" />
@@ -91,6 +93,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.Main02" />
         <item itemvalue="Application.main02" />
       </list>
     </recent_temporary>
@@ -111,19 +114,47 @@
       <workItem from="1676634320769" duration="1703000" />
       <workItem from="1676636106987" duration="699000" />
       <workItem from="1676636944784" duration="726000" />
-      <workItem from="1676637727283" duration="3847000" />
+      <workItem from="1676637727283" duration="6850000" />
+      <workItem from="1676644593842" duration="4000" />
+      <workItem from="1676644814675" duration="12925000" />
+      <workItem from="1676659534645" duration="4000" />
+      <workItem from="1676659541419" duration="5000" />
+      <workItem from="1676663047017" duration="145000" />
+      <workItem from="1676718613588" duration="186000" />
+      <workItem from="1676726659449" duration="43000" />
+      <workItem from="1676726855649" duration="108000" />
+      <workItem from="1676730287001" duration="215000" />
+      <workItem from="1676799367509" duration="9803000" />
+      <workItem from="1676813412588" duration="7842000" />
     </task>
+    <task id="LOCAL-00001" summary="List working">
+      <created>1676641871400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676641871400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="List working" />
+    <option name="LAST_COMMIT_MESSAGE" value="List working" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Main01.java</url>
-          <option name="timeStamp" value="2" />
+          <line>12</line>
+          <properties class="Main01" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
